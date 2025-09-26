@@ -1,0 +1,22 @@
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 2px solid #333;
+    background-color: #f0f0f0;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+#button1:hover {
+    background-color:red;
+    color: green;
+    border: blue;
+    box-shadow:aquamarine;
+}
+#button2:active {
+    background-color: orange;
+transform: translateY(2px);
+}
+#button3:focus {
+    outline: 2rem;
+}
