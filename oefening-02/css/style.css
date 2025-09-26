@@ -1,0 +1,15 @@
+ li:nth-child(even) { 
+    background-color: antiquewhite;
+}
+ li:nth-child(odd) { 
+    color: dodgerblue; 
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-weight: bold;
+}
+li {
+    padding-bottom: 5px;
+}
