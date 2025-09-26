@@ -1,0 +1,22 @@
+table {
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+}
+thead tr th,
+tbody tr th {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+* {
+    border-spacing: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+caption, th, td {
+    text-align: center;
+    padding: 10px;
+}
